@@ -12,10 +12,6 @@ Run the script: Execute the Python script from your terminal.
 
 python calculator.py
 Select an operation: The calculator will display a menu of operations. Enter the number corresponding to your desired operation.
-
-========================================
-*** Binary Operations ***
-========================================
 1. add()
 2. sub()
 3. mult()
@@ -34,14 +30,14 @@ Enter your choice:1
 Enter first input:6
 Enter second input:3
 9.0
-Supported Operations
-Binary Operations
+SUPPORTED OPERATIONS
+BINARY 
 1. add(): Adds two numbers.
 2. sub(): Subtracts the second number from the first.
 3. mult(): Multiplies two numbers.
 4. div(): Divides the first number by the second.
 16. xexpy(): Calculates the first number raised to the power of the second number.
-Unary Operations
+UNARY    
 5. ln(): Natural logarithm of a number.
 6. sin(): Sine of an angle (in radians).
 7. cos(): Cosine of an angle (in radians).
@@ -59,7 +55,7 @@ Unary Operations
 20. inverse cot(): Inverse cotangent (arccot) of a number.
 21. inverse sec(): Inverse secant (arcsec) of a number.
 22. inverse cosec(): Inverse cosecant (arccosec) of a number.
-Constants
+CONSTANTS
 23. Pi (π): Displays the value of Pi.
 24. Euler's number (e): Displays the value of Euler's number.
 
